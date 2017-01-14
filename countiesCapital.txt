@@ -1,3 +1,4 @@
+country,capital
 United Arab Emirates,Abu Dhabi
 Nigeria,Abuja
 Ghana,Accra
